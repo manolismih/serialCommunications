@@ -6,8 +6,6 @@
  * control the functionality of the program via main
  * (comment/uncomment) function calls
  * names of the functions are self-descriptive
- * NOTE: full execution of the program may lead to exception
- * NOTE: in case of exception, just comment the done function calls and resume execution
  */
 
 import java.io.*;
