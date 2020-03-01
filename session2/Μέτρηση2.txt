@@ -1,0 +1,7 @@
+27-3-2019 11:30
+	private static final String echo="E4354\r";
+	private static final String clearImage=" M4144\r";
+	private static final String errorImage="G4885\r";
+	private static final String track="P9250";
+	private static final String ACK="Q7403\r";
+	private static final String NACK="R9143\r";
